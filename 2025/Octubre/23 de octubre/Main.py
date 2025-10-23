@@ -2,4 +2,5 @@
 #Fecha: Octubre 23 de 2025
 #Proyecto diario.
 
-#Calculadora de 
+#Calculadora de operaciones sencillas.
+
