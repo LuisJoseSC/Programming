@@ -1,0 +1,131 @@
+#
+#   VizieR Astronomical Server vizier.cds.unistra.fr
+#    Date: 2025-10-28T15:00:52 [V7.5.3]
+#   In case of problem, please report to:	cds-question@unistra.fr
+#
+#
+#Coosys	J2000:	eq_FK5 J2000
+#INFO	service_protocol=ASU	  IVOID of the protocol through which the data was retrieved
+#INFO	request_date=2025-10-28T15:00:52	  Query execution date
+#INFO	request=https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-oc.form=dec&-out.max=1000&-order=I&-out.src=V/19/data,V/19/clusters&-source=V/19/data V/19/clusters&Cl=20&-out=B-V&-out=Vmag&	  Full request URL (POST)
+#INFO	contact=cds-question@unistra.fr	  Email or URL to contact publisher
+#INFO	server_software=7.5.3	  Software version
+#INFO	publisher=CDS	  Data centre that produced the VOTable
+#INFO	CatalogsExamined=2	
+#  2 catalogues with potential matches were examined.
+#
+
+#RESOURCE=yCat_5019
+#Name: V/19
+#Title: Masses and Ages of Stars in 68 Open Clusters (Piskunov 1980)
+#INFO	ivoid=ivo://cds.vizier/v/19	    IVOID of underlying data collection
+#INFO	creator=Piskunov A.	    First author or institution
+#INFO	cites=bibcode:1980BICDS..19...67P	    Article or Data origin sources
+#INFO	original_date=1980	    Year of the article publication
+#INFO	reference_url=https://cdsarc.cds.unistra.fr/viz-bin/cat/V/19	    Dataset landing page
+#INFO	publication_date=1999-03-02	    Date of first publication in the data centre
+#INFO	rights_uri=https://cds.unistra.fr/vizier-org/licences_vizier.html	    Licence URI
+#Table	V_19_data:
+#Name: V/19/data
+#Title: Data for individual stars
+#Column	B-V	(F6.3)	B-V color index	[ucd=phot.color;em.opt.B;em.opt.V]
+#Column	Vmag	(F6.3)	V magnitude	[ucd=phot.mag;em.opt.V]
+B-V;Vmag
+mag;mag
+------;------
+ 0.820; 9.040
+ 0.820; 9.040
+ 0.820; 9.040
+ 1.250;11.920
+ 1.250;11.920
+ 1.250;11.920
+ 0.340;12.070
+ 1.090;12.150
+ 1.090;12.150
+ 1.090;12.150
+ 1.100;12.190
+ 1.100;12.190
+ 1.100;12.190
+ 0.230;12.200
+ 0.130;12.250
+ 1.730;12.400
+ 1.730;12.400
+ 1.730;12.400
+ 0.320;12.470
+ 1.420;12.560
+ 1.420;12.560
+ 1.420;12.560
+ 0.120;12.780
+ 0.380;12.970
+ 0.320;13.010
+ 0.310;13.060
+ 0.350;13.110
+ 0.230;13.310
+ 0.260;13.350
+ 0.410;13.410
+ 0.180;13.420
+ 0.370;13.510
+ 0.200;13.520
+ 0.460;13.550
+ 0.480;13.570
+ 0.470;13.580
+ 0.400;13.590
+ 0.440;13.610
+ 0.280;13.620
+ 0.310;13.620
+ 0.200;13.700
+ 0.380;13.710
+ 0.230;13.720
+ 0.380;13.730
+ 0.170;13.770
+ 0.420;13.790
+ 0.320;13.860
+ 0.390;13.890
+ 0.170;13.890
+ 0.450;14.000
+ 0.360;14.030
+ 0.290;14.040
+ 0.470;14.040
+ 0.430;14.050
+ 0.350;14.060
+ 0.400;14.080
+ 0.400;14.080
+ 0.400;14.080
+ 0.350;14.120
+ 0.530;14.230
+ 0.320;14.310
+ 0.300;14.310
+ 0.280;14.320
+ 0.270;14.320
+ 0.370;14.330
+ 0.260;14.330
+ 0.320;14.330
+ 0.180;14.330
+ 0.220;14.380
+ 0.210;14.400
+ 0.460;14.410
+ 0.360;14.430
+ 0.450;14.450
+ 0.450;14.450
+ 0.450;14.450
+ 0.480;14.460
+ 0.440;14.510
+ 0.440;14.510
+ 0.440;14.510
+ 0.420;14.520
+ 0.360;14.540
+ 0.240;14.540
+ 0.480;14.580
+ 0.480;14.580
+ 0.480;14.580
+ 0.380;14.620
+ 0.420;14.620
+
+#Table	V_19_clusters:
+#Name: V/19/clusters
+#Title: General information on each cluster
+
+
+
+
+
